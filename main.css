@@ -1,0 +1,28 @@
+
+
+.align {
+  display: flex;  
+  align-content: center;
+  gap: 10px;
+}
+
+.card-title {
+  border: 1px solid lightblue;
+  color: darkslategrey;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+
+p {
+  text-justify: distribute-all-lines;
+} 
+
+.list-group {
+  font-weight: bold;
+}
+
+.available {
+  color: yellow;
+  background-color: darkgrey;
+}
